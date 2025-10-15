@@ -57,12 +57,17 @@ Setelah itu ditambahkan dua artikel dengan gambar 150x150 yang diatur posisi kir
 Terakhir, ditambahkan sidebar dan footer sehingga halaman tampak lengkap seperti website sebenarnya.
 
 ## JAWABAN PERTANYAAN ##
+
 ## GAMBAR 10 ##
 ![FOTO](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/b16034f19cae30ae78a7d081aecf33b13eea7900/Screenshot%202025-10-15%20115440.png)
+Pertama, dibuat struktur dasar halaman dengan header, navigasi, dan footer agar tampilan konsisten.
+Kedua, bagian utama (main) diisi dengan teks tentang diri dan daftar portofolio.
+Ketiga, ditambahkan aside untuk menampilkan informasi singkat di sisi kanan.
+Terakhir, semua elemen dibungkus dalam container supaya layout tetap rapi sesuai gaya CSS utama.
 
 ## GAMABAR 11 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/de1267a2ec6cd862fcfffd9b5eaf7fe155c70b4e/Screenshot%202025-10-15%20115453.png)
-
+Pertama , di buat struktur halaman dengan header, navigasi, dan footer agar layoutkonsisten. kedua, bagian utama (main) berisis form kontak dengan input nama, email, dan pesan. ketiga, tombol " kirim pesan" ditambahkan untuk mengirrim data pengguna. terakhir, aside menampilkan info kontak tambahan di sisi kanan halaman.
 
 
 
