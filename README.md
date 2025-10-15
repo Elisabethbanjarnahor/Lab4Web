@@ -21,4 +21,7 @@ Properti clear:left digunakan supaya kotak biru turun ke baris baru dan tidak se
 
 ## GAMBAR 3 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/db1f8b3ca0db2a4e00ca0ecdd42bf9bd8a511aa8/Screenshot%202025-10-15%20105239.png)
+Pertama, buat folder baru lab4_layout lalu tambahkan file home.html dan style.css.
+Lalu tulis struktur dasar layout menggunakan elemen semantik HTML5 seperti <header>, <nav>, <section>, <aside>, dan <footer> untuk membentuk kerangka web sederhana.
 
+## GAMBAR 4 ##
