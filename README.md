@@ -36,7 +36,11 @@ CSS diberi background abu-abu dan padding besar supaya tampil seperti area pembu
 
 ## GAMBAR 6 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/1641732253b3c3060132c66d2639e7f535d3e702/Screenshot%202025-10-15%20111327.png)
+Bagian ini menambahkan elemen <aside> berisi kotak widget seperti daftar link dan teks tambahan di sisi kanan halaman.
+CSS digunakan untuk memberi border, warna header biru, dan jarak antar widget supaya tampil rapi dan terpisah.
 
+## GAMBAR 7 ##
+![foto](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/97973b4fd3c54fbdf4df9177b434b3b3a6317428/Screenshot%202025-10-15%20111549.png)
 
 
 
