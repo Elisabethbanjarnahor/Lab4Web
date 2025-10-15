@@ -25,3 +25,16 @@ Pertama, buat folder baru lab4_layout lalu tambahkan file home.html dan style.cs
 Lalu tulis struktur dasar layout menggunakan elemen semantik HTML5 seperti <header>, <nav>, <section>, <aside>, dan <footer> untuk membentuk kerangka web sederhana.
 
 ## GAMBAR 4 ##
+![poto](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/70cb7455f4eef41402e351496352a24dad02c9be/Screenshot%202025-10-15%20105746.png)
+Menambahkan elemen <nav> berisi link menu dan memberi CSS background biru agar terlihat sebagai navigasi utama.
+Setiap link diberi efek hover dan active supaya menu berubah warna saat diarahkan kursor.
+
+## GAMBAR 5 ##
+
+
+
+
+
+
+
+
