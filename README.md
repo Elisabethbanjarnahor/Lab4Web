@@ -31,8 +31,11 @@ Setiap link diberi efek hover dan active supaya menu berubah warna saat diarahka
 
 ## GAMBAR 5 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/6a1108098a9c0903c6d6689d5d72ec593aee6fdf/Screenshot%202025-10-15%20110153.png)
+Bagian ini menambahkan elemen <section id="hero"> berisi judul “Hello World!” dan teks deskripsi sebagai banner utama.
+CSS diberi background abu-abu dan padding besar supaya tampil seperti area pembuka di halaman web.
 
-
+## GAMBAR 6 ##
+![foto]
 
 
 
