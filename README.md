@@ -30,6 +30,7 @@ Menambahkan elemen <nav> berisi link menu dan memberi CSS background biru agar t
 Setiap link diberi efek hover dan active supaya menu berubah warna saat diarahkan kursor.
 
 ## GAMBAR 5 ##
+![foto](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/6a1108098a9c0903c6d6689d5d72ec593aee6fdf/Screenshot%202025-10-15%20110153.png)
 
 
 
