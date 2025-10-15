@@ -46,11 +46,13 @@ Sidebar dibuat dengan tag <aside> yang berisi dua widget box (Widget Header dan 
 
 ## GAMABAR 8 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/8119b2e19423ee5d53c7d737a9d0d3241fbb6e53/Screenshot%202025-10-15%20112052.png)
-
+Gamabar tersebut menampilkan hasil langkah membuat tiga box fitur utama di bagian tengah halaman menggunakan tag <dif class= "box"> 
+masing masing box berisi gambar bulat berwarna oranye, biru, dan hijau muda dengan judul serta tombol "view detail" yang di atur menggunakan CSS agar sejajar dan rapi.
 
 ## GAMBAR 9 ##
 ![FOTO](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/345a85717f27c550139c8c07d386dbda09225e97/Screenshot%202025-10-15%20113954.png)
 
+## JAWABAN PERTANYAAN ##
 ## GAMBAR 10 ##
 ![FOTO](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/b16034f19cae30ae78a7d081aecf33b13eea7900/Screenshot%202025-10-15%20115440.png)
 
