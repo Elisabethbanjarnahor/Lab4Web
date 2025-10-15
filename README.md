@@ -51,6 +51,10 @@ masing masing box berisi gambar bulat berwarna oranye, biru, dan hijau muda deng
 
 ## GAMBAR 9 ##
 ![FOTO](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/345a85717f27c550139c8c07d386dbda09225e97/Screenshot%202025-10-15%20113954.png)
+Langkah pertama membuat struktur dasar web dengan header, navigasi, dan hero agar tampilan atas rapi.
+Lalu bagian “main” diisi tiga box berbentuk lingkaran menggunakan CSS agar tampil sejajar di tengah.
+Setelah itu ditambahkan dua artikel dengan gambar 150x150 yang diatur posisi kiri dan kanan memakai float.
+Terakhir, ditambahkan sidebar dan footer sehingga halaman tampak lengkap seperti website sebenarnya.
 
 ## JAWABAN PERTANYAAN ##
 ## GAMBAR 10 ##
