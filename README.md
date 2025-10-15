@@ -35,7 +35,8 @@ Bagian ini menambahkan elemen <section id="hero"> berisi judul â€œHello World!â€
 CSS diberi background abu-abu dan padding besar supaya tampil seperti area pembuka di halaman web.
 
 ## GAMBAR 6 ##
-![foto]
+![foto](https://github.com/Elisabethbanjarnahor/Lab4Web/blob/1641732253b3c3060132c66d2639e7f535d3e702/Screenshot%202025-10-15%20111327.png)
+
 
 
 
